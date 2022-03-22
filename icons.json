@@ -1,5 +1,5 @@
 {
-	"hidesExplorerArrows": false,
+	"hidesExplorerArrows": true,
 	"iconDefinitions": {
 		"_file": {
 			"iconPath": "./icons/file.png"
