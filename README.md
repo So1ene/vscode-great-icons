@@ -1,3 +1,13 @@
+# VSCode Great Icons Options
+
+- [no-arrows]()
+- [no-folders]()
+
+How to use
+- Download the option that you want from link above.
+- Open extensions in vs code (Ctrl+Shift+X).
+- Drag the file into the list of extensions.
+
 # VSCode Great Icons
 
 A big pack of icons (200+) for your files.
