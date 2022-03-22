@@ -1,12 +1,15 @@
 # VSCode Great Icons Options
 
-- [no-arrows]()
-- [no-folders]()
+- [no-arrows](https://github.com/So1ene/vscode-great-icons-options/blob/no-arrows/vscode-great-icons-noarrows-1.0.0.vsix)
+- [no-folders](https://github.com/So1ene/vscode-great-icons-options/blob/no-folders/vscode-great-icons-nofolders-1.0.0.vsix)
 
 How to use
 - Download the option that you want from link above.
 - Open extensions in vs code (Ctrl+Shift+X).
 - Drag the file into the list of extensions.
+- Set `File Icon Theme` to `VSCode Great Icons - No Folders/Arrows` (Whichever you chose)
+
+---
 
 # VSCode Great Icons
 
