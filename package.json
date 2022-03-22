@@ -1,6 +1,6 @@
 {
-	"name": "vscode-great-icons-noarrows",
-	"displayName": "VSCode Great Icons - No arrows",
+	"name": "vscode-great-icons--better-folders",
+	"displayName": "VSCode Great Icons - Better Folders",
 	"description": "A big pack of icons (200+) for your files.",
 	"version": "1.0.0",
 	"publisher": "So1ene",
@@ -20,8 +20,8 @@
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "vscode-great-icons-noarrows",
-				"label": "VSCode Great Icons - No arrows",
+				"id": "vscode-great-icons--better-folders",
+				"label": "VSCode Great Icons - Better Folders",
 				"path": "./icons.json"
 			}
 		]
