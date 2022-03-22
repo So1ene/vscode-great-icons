@@ -1,6 +1,6 @@
 # VSCode Great Icons Options
 
-Options (choose one):
+Download Extension Options (choose one):
 - [better-folders](https://github.com/So1ene/vscode-great-icons--better-folders/blob/better-folders/vscode-great-icons--better-folders-1.0.0.vsix) ![image](https://user-images.githubusercontent.com/62023521/159389547-ea254589-9656-4d54-b779-c47ba67fc750.png)
 
 - [no-arrows](https://github.com/So1ene/vscode-great-icons--better-folders/blob/no-arrows/vscode-great-icons-noarrows-1.0.0.vsix)
@@ -8,8 +8,8 @@ Options (choose one):
 
 How to use
 - Download the option that you want from link above.
-- Open extensions in vs code (Ctrl+Shift+X).
-- Drag the file into the list of extensions.
+- Open extensions in VSCode `(Ctrl+Shift+X)`.
+- Drag the file into the list of installed extensions.
 - Set `File Icon Theme` to `VSCode Great Icons - {Option Name}` (Whichever option you chose)
 
 ---
