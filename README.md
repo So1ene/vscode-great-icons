@@ -1,7 +1,9 @@
 # VSCode Great Icons Options
 
-- [no-arrows](https://github.com/So1ene/vscode-great-icons-options/blob/no-arrows/vscode-great-icons-noarrows-1.0.0.vsix)
-- [no-folders](https://github.com/So1ene/vscode-great-icons-options/blob/no-folders/vscode-great-icons-nofolders-1.0.0.vsix)
+Options (choose one):
+- [better-folders](https://github.com/So1ene/vscode-great-icons--better-folders/blob/better-folders/vscode-great-icons--better-folders-1.0.0.vsix)
+- [no-arrows](https://github.com/So1ene/vscode-great-icons--better-folders/blob/no-arrows/vscode-great-icons-noarrows-1.0.0.vsix)
+- [no-folders](https://github.com/So1ene/vscode-great-icons--better-folders/blob/no-folders/vscode-great-icons-nofolders-1.0.0.vsix)
 
 How to use
 - Download the option that you want from link above.
