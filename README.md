@@ -1,4 +1,4 @@
-# VSCode Great Icons Options
+# VSCode Great Icons - Better Folder Structure Options
 
 Download Extension Options (choose one):
 - [better-folders](https://github.com/So1ene/vscode-great-icons--better-folders/blob/better-folders/vscode-great-icons--better-folders-1.0.0.vsix) ![image](https://user-images.githubusercontent.com/62023521/159389547-ea254589-9656-4d54-b779-c47ba67fc750.png)
