@@ -9,7 +9,7 @@ How to use
 - Download the option that you want from link above.
 - Open extensions in vs code (Ctrl+Shift+X).
 - Drag the file into the list of extensions.
-- Set `File Icon Theme` to `VSCode Great Icons - No Folders/Arrows` (Whichever you chose)
+- Set `File Icon Theme` to `VSCode Great Icons - {Option Name}` (Whichever option you chose)
 
 ---
 
