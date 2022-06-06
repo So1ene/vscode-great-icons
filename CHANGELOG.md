@@ -1,3 +1,21 @@
+# v2.1.86 (2022-04-08)
+
+* Debug a few files
+
+# v2.1.85 (2022-04-05)
+
+* Resized Solidity icon
+* Resized Apache icon
+* Extended support for Svelte
+* Added support for Proto
+* Added support for Turborepo
+* Added support for Vitest
+* Added support for KeystoneJS
+
+# v2.1.84 (2022-03-09)
+
+* Added support for Svelte specific files format (`.cjs)
+
 # v2.1.83 (2022-03-05)
 
 * Added support for Steepfile (`Steepfile`)

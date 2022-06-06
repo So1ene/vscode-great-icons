@@ -24,11 +24,11 @@ A big pack of icons (200+) for your files.
 
 Enjoy ☺
 
-> Wow, slowly but surely getting closer to the 1 million installations. I’m proud that ya’ll appreciate my little set. Thank you!
+> Wow, we passed the 1 million installations! I’m proud that ya’ll appreciate my little set. I keep receiving very kind reviews from users. Thank you very much!
 
 ## How to use
 
-After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Great Icons`.
+After installation and activation, you should go in settings (`File` → `Preferences` → `File Icon Theme` on Windows, or `Code` → `Preferences`  → `File Icon Theme` on macOS), and select `VSCode Great Icons`.
 
 ## Want more?
 
@@ -40,7 +40,7 @@ I can add more icons if you need, [open a **new** issue](https://github.com/Emma
 
 ## Do you work with angular?
 
-Check out the [Simpler VSCode Icons](https://github.com/DavidBabel/vscode-simpler-icons) fork by **@DavidBabel**! It has a lot of angular icons for various filetypes in angular projects.
+Check out the [Simpler VSCode Icons](https://github.com/DavidBabel/vscode-simpler-icons) fork by **@DavidBabel**! Though it’s not been updated recently and might not be up to date, it has a lot of angular icons for various filetypes in angular projects.
 
 
 ## Follow me
